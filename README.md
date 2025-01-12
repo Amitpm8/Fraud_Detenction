@@ -132,8 +132,8 @@ https://your-app-name.onrender.com/predict
 ---
 
 ## Author
-- **Amit (your name/username)**
-- Connect on [LinkedIn](#) or [Twitter](#).
+- **Amit**
+- Connect on [LinkedIn](www.linkedin.com/in/amit-p-m)
 
 ---
 
