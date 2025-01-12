@@ -78,7 +78,7 @@ curl -X POST \
 -d '{
     "features": [-1.06453826, 0.17348925, -1.66156107, -0.08842163, -0.97871495, -1.05156262, 0.76252377, -0.4238806, 0.18760014, 0.81897078, -0.51890784, -0.08589134, 0.98021151, 0.07724801, -0.22729521, -0.14948917, -2.44552216, 0.14947692, 2.09104549, 0.53135806, 0.65641244, -0.29057759, -1.29878001, -0.84364067, -1.91034348, 0.59701544, -1.54833298, 0.10156733, 0.30912807, 1.7262552]
 }' \
-https://your-app-name.onrender.com/predict
+https://fraud-detection-app-665h.onrender.com/predict
 ```
 
 ---
@@ -108,7 +108,6 @@ https://your-app-name.onrender.com/predict
 ├── model.pkl              # Trained ML model
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Documentation
-└── .env                   # Environment variables (if used)
 ```
 
 ---
